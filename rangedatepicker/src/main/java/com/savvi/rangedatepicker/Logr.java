@@ -1,6 +1,8 @@
 package com.savvi.rangedatepicker;
 
 import android.util.Log;
+import com.savvi.rangedatepicker.BuildConfig;
+
 
 /** Log utility class to handle the log tag and DEBUG-only logging. */
 final class Logr {
